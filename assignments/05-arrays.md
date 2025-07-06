@@ -2,36 +2,32 @@
 
 ## Submit the following on your Leetcode profile itself.
 
-### 1. => 1D, 2. => 1D, 3. => 1D, 4. => 2D, 5. => 1D, 6. => 1D, 7. => 1D, 8. => 1D, 9. => 1D, 10. => 1D, 11. => 2D, 12. => 1D, 13. => 2D, 14. => 2D, 15. => 2D, 
-### 16. => 1D, 17. => 2D, 18. => 1D, 19. => 1D, 20. => 2D, 21. => 1D, 22. => 1D, 23. => 2D, 24. => 1D, 25. => 2D, 26. => 1D, 27. => 1D, 28. => 1D
-
-
 ### Easy
 1. [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)       
 2. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
 3. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                                                
-4. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
+4. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)          2D
 5. [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 6. [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 7. [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
 8. [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 9. [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
 10. [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
-11. [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
+11. [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)  2D
 12. [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
-13. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
-14. [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)
-15. [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
+13. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)                    2D
+14. [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)            2D
+15. [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)   2D
 16. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
-17. [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
+17. [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)        2d
 18. [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)              
-19. [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)                        
-20. [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)  ?????????
+19. [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)      2D                     
+20. [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)      2D
 21. [Two Sum](https://leetcode.com/problems/two-sum/)                                
 22. [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)        ????????????????????
-23. [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
+23. [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)     2D
 24. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-25. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
+25. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)                  2D
 26. [Plus One](https://leetcode.com/problems/plus-one/)
 27. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 28. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
