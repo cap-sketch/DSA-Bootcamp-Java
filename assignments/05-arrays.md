@@ -2,6 +2,10 @@
 
 ## Submit the following on your Leetcode profile itself.
 
+### 1. => 1D, 2. => 1D, 3. => 1D, 4. => 2D, 5. => 1D, 6. => 1D, 7. => 1D, 8. => 1D, 9. => 1D, 10. => 1D, 11. => 2D, 12. => 1D, 13. => 2D, 14. => 2D, 15. => 2D, 
+### 16. => 1D, 17. => 2D, 18. => 1D, 19. => 1D, 20. => 2D, 21. => 1D, 22. => 1D, 23. => 2D, 24. => 1D, 25. => 2D, 26. => 1D, 27. => 1D, 28. => 1D
+
+
 ### Easy
 1. [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)       
 2. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
@@ -20,8 +24,8 @@
 15. [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
 16. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
 17. [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
-18. [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)              ??????????????????
-19. [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)                        ??????????????????
+18. [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)              
+19. [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)                        
 20. [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)  ?????????
 21. [Two Sum](https://leetcode.com/problems/two-sum/)                                
 22. [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)        ????????????????????
