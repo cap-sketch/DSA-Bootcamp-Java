@@ -42,9 +42,9 @@
 7. [Jump Game](https://leetcode.com/problems/jump-game/)           
 8. [Rotate Array](https://leetcode.com/problems/rotate-array/)
 9. [Sort Colors](https://leetcode.com/problems/sort-colors/)                 
-10. [House Robber](https://leetcode.com/problems/house-robber/)              [DP problem]
+10. [House Robber](https://leetcode.com/problems/house-robber/)              [DP problem- do later]
 
 ### Hard
-1. [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
-2. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
-3. [Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)
+1. [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)           (do later)
+2. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)         (do later)
+3. [Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)                (do later)
