@@ -18,7 +18,7 @@
 - [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 - [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) 
 - [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
-- [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) -----------------
+- [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) 
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)      ---------------------
 - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
